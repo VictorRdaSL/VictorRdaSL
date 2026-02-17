@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá! Eu sou o Victor Rubens!👋
 
-<!--
-**VictorRdaSL/VictorRdaSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com design gráfico
+- 🌱 Atualmente cursando 1º Semestre de DSM((Desenvolvimento de Software Multiplataforma) na FATEC
+        Aprendendo:
+                - Modelagem de Banco de Dados
+                - Design Digital
+                - Desenvolvimento web
+                - Algoritmo e lógica de programação
+                - Engenharia de Sofware
+                - Sistemas Operacionais e Redes de Computadores
+                
+- ⚡ Fun fact: Gosto de jogos, animes, séries e com certeza gosto de tecnologias!
+- ✉  Meu E-mail para contato: nenhum
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/victor-rubens-ux-ui/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
