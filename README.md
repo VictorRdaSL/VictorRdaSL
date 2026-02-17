@@ -2,13 +2,7 @@
 
 - 🔭 Hoje trabalho com design gráfico
 - 🌱 Atualmente cursando 1º Semestre de DSM((Desenvolvimento de Software Multiplataforma) na FATEC
- - Aprendendo:
- - Modelagem de Banco de Dados
- - Design Digital
- - Desenvolvimento web
- - Algoritmo e lógica de programação
- - Engenharia de Sofware
- - Sistemas Operacionais e Redes de Computadores
+ - 🟢Aprendendo: 🔷Modelagem de Banco de Dados  🔷Design Digital 🔷Desenvolvimento web 🔷Algoritmo e lógica de programação 🔷Engenharia de Sofware 🔷Sistemas Operacionais e Redes de Computadores
                 
 - ⚡ Fun fact: Gosto de jogos, animes, séries e com certeza gosto de tecnologias!
 - ✉  Meu E-mail para contato: nenhum
