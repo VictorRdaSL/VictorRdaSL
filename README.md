@@ -11,7 +11,7 @@
 
 ## Minhas Skills
 
-  <img src="https://img.shields.io/badge/Figma-#000000?style=for-the-badge&logo=figma&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS-327BFA?&style=for-the-badge&logo=css3&logoColor=white"></img>
   <img src="https://img.shields.io/badge/HTML-F24E1E?style=for-the-badge&logo=html5&logoColor=white"></img> 
   
