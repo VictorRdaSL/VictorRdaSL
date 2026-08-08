@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com design gráfico
 - 🌱 Atualmente cursando 2º Semestre de DSM(Desenvolvimento de Software Multiplataforma) na FATEC
-- 🟢Aprendendo: 🔷Modelagem de Banco de Dados  🔷Design Digital 🔷Desenvolvimento web 🔷Algoritmo e lógica de programação 🔷Engenharia de Sofware 🔷Sistemas Operacionais e Redes de Computadores           
+- 🟢Aprendendo: 🔷Técnicas de Programação I 🔷Banco de Dados Relacional  🔷Estrutura de Dados 🔷Desenvolvimento Web II 🔷Engenharia de Software II 🔷Matemática para Computação
 - ⚡ Fun fact: Gosto de jogos, animes, séries e com certeza gosto de tecnologia!
 - ✉  Meu e-mail para contato: victorsilvalima1@hotmail.com
 
