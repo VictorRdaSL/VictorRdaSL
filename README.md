@@ -18,3 +18,8 @@
   <img src="https://img.shields.io/badge/python-366899?style=for-the-badge&logo=python&logoColor=white"></img> 
   
 </div>
+
+<div> 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=VictorRdaSL&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=VictorRdaSL&langs_count=4&theme=dark)
+</div>
+
