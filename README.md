@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Victor Rubens!👋
 
-- 🔭 Hoje trabalho com design gráfico
+- 🔭 Hoje trabalho como Analista de Suporte Técnico
 - 🌱 Atualmente cursando 2º Semestre de DSM(Desenvolvimento de Software Multiplataforma) na FATEC
 - 🟢Aprendendo: 🔷Técnicas de Programação I 🔷Banco de Dados Relacional  🔷Estrutura de Dados 🔷Desenvolvimento Web II 🔷Engenharia de Software II 🔷Matemática para Computação
-- ⚡ Fun fact: Gosto de jogos, animes, séries e com certeza gosto de tecnologia!
+- ⚡ Fun facts: Gosto de jogos, animes, séries e com certeza gosto de tecnologia!
 - ✉  Meu e-mail para contato: victorsilvalima1@hotmail.com
 
 <div> 
